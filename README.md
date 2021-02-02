@@ -21,8 +21,9 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![](https://i.imgur.com/YCkAwm6.gif)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 # Project 3 - *Twitter Bot*
 
 **Twitter Bot** is a basic twitter app to read your tweets.
