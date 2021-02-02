@@ -19,8 +19,8 @@ The following **bonus** features are implemented:
 - [ ] User sees embedded images in tweet if available. (3pts)
 
 ## Video Walkthrough
-
 Here's a walkthrough of implemented user stories:
+
 ![](https://i.imgur.com/YCkAwm6.gif)
 
 
